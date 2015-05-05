@@ -1,0 +1,24 @@
+Brian Labrum (me)
+
+  Forgot to put name at the top of the file
+  
+  Used a different method for parse, takes longer but cathes different errors
+
+  loop could have been shortend by only checking first half of numbers less than it
+
+  could use helper method to make it better for future use
+
+Sam Callister
+
+  Needs to check for 1, 0, and negative numbers
+
+  can shorten loop by not looping threw even numbers
+  
+
+Mathew Greaves
+ 
+  loop could have been shortend by only checking first half of numbers less than it
+
+  could use helper method to make it better for future use
+
+  can shorten loop by not looping threw even numbers

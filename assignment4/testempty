@@ -1,0 +1,18 @@
+FoodItem - UPC Code: 1 Shelf life: 1 Name: test1
+FoodItem - UPC Code: 2 Shelf life: 2 Name: test2
+FoodItem - UPC Code: 3 Shelf life: 3 Name: test3
+FoodItem - UPC Code: 4 Shelf life: 4 Name: test4
+Warehouse - warehouse1
+Warehouse - warehouse2
+Warehouse - warehouse3
+Warehouse - warehouse4
+Start date: 02/05/2014
+Receive: 1 2 warehouse1
+Receive: 1 5 warehouse2
+Receive: 2 2 warehouse1
+Receive: 2 2 warehouse1
+Receive: 3 2 warehouse1
+Receive: 3 5 warehouse2
+Receive: 4 5 warehouse2
+Receive: 4 5 warehouse2
+End

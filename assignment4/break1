@@ -1,0 +1,4 @@
+break inventory.cpp:92
+break *0x40369f
+break *0x4036d1
+break *0x40c8fe
